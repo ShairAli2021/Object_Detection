@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/object/objectDetection/data/train
+val: /content/drive/MyDrive/object/objectDetection/data/valid
+
+nc: 4
+names: ['left', 'right', 'stright', 'unexpected']
